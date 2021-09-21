@@ -1,6 +1,9 @@
 <!-- TIPE -->
 ## TIPE
-After spending the first year of preparatory class working on the aspects of particle displacement from a physical point of view, in the 2nd year I tried the computer side. So I did these 3 different sub-projects.
+
+The TIPE (travaux d'initiative personnelle encadrés / supervised personal initiative work) aims to confront students in preparatory classes with the life of an engineer. For two years, the students have to work on a project while they already have a lot of personal work to do in the other subjects. The final objective is an oral exam, which I did not take because of the COVID-19. Having been warned in March that the test would be cancelled, my code can still be greatly improved (in terms of speed and efficiency) but it works and gives good results.
+
+Besides having to include two school subjects from my major, the project had to fit into the Ocean theme. So I decided to deal with the movement of microparticles in water. After spending the first year of preparatory class working on the aspects of particle displacement from a physical point of view, in the 2nd year I tried the computer side. So I did these 3 different sub-projects.
 
 
 <!-- TABLE OF CONTENTS -->
