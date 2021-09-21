@@ -43,3 +43,9 @@ For this project I started with a map of Lake Geneva with the currents, which I 
 ## Program Groix_Island
 For my last programme, the main objective was to automate everything. So for the first time I tackled image processing. Using an image from a database (https://data.shom.fr/), I wanted to model the movement of particles in the ocean. This gave me an image like the one below. The displacement seems very geometric but the idea was in the long run to superimpose several maps and create a large displacement map of micro-particles. 
 <p align="center"><img src="3rdProgram%20Groix_Island/9_Result.bmp" width="800"></p align="center">
+
+
+<!-- CONTACT -->
+## Contact
+
+Lucas MARQUET -  lucasmarquet63800@gmail.com
